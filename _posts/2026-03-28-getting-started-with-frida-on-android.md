@@ -15,3 +15,4 @@ Run the following command in your terminal:
 
 ```bash
 pip install frida-tools
+```
