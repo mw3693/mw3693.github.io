@@ -23,4 +23,4 @@ categories: [Mobile, Android]
 tags: [frida, ssl-pinning]
 
 ```
-![Frida Logo](/assets/images/frida-logo.jpg)
+<img src="/assets/images/frida-logo.jpg" alt="Frida Logo" width="300" height="150">
