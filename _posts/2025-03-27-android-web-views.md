@@ -10,3 +10,14 @@ def hello():
     print("Hello, Chirpy!")
 hello()
 ```
+
+> هيظهر في الموقع مع تلوين للكود حسب لغة **Python**.
+
+---
+
+### 3️⃣ نصائح مهمة
+- لو الكود **HTML أو YAML**، حط لغة صحيحة بعد الثلاث backticks:
+```markdown
+```yaml
+categories: [Mobile, Android]
+tags: [frida, ssl-pinning]
