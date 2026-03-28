@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Frida on Android"
-date: 2026-03-28 16:00:00 +0000
+date: 2026-03-27 10:00:00 +0000
 categories: [Android, Frida]
 tags: [Android, Security, Reverse-Engineering, Frida]
 ---
